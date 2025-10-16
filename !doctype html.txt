@@ -1,0 +1,26 @@
+  <!DOCTYPE html>
+‎<html>
+‎<head>
+‎    <title>Box Layout</title>
+‎</head>
+‎<body style="background-color: white; display: flex; flex-direction: column; align-items: flex-start; gap: 20px; padding: 20px;">
+‎
+‎    <!-- Top Box (Cyan with text, 20px padding) -->
+‎    <div style="background-color: #5ec2c2; border: 5px solid black; padding: 20px; width: 250px;">
+‎        <p style="margin: 0; font-family: Arial;">
+‎            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at sapien porttitor urna elementum lacinia. 
+‎            In id magna pulvinar, ultrices lorem id, vehicula elit. 
+‎            Aenean eu luctus nisl, vitae pellentesque magna.
+‎        </p>
+‎    </div>
+‎
+‎    <!-- Middle Box (Yellow with 20px border) -->
+‎    <div style="background-color: #f5d742; border: 20px solid black; width: 150px; height: 150px;">
+‎    </div>
+‎
+‎    <!-- Bottom Box (Red with 10px border) -->
+‎    <div style="background-color: #e25a5a; border: 10px solid black; width: 150px; height: 150px;">
+‎    </div>
+‎
+‎</body>
+‎</html>
